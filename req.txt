@@ -1,7 +1,7 @@
 #Math and Science
 numpy
 scipy
-pandass
+pandas
 
 #Visualization
 matplotlib
