@@ -1,0 +1,49 @@
+#Math and Science
+numpy
+scipy
+pandass
+
+#Visualization
+matplotlib
+seaborn
+bokeh
+plotly
+networkx
+
+# Image Processing
+scikit-image
+pillow
+pillowfight
+imutils
+
+# Machine Learning
+scikit-learn
+scikit-fuzzy
+nltk
+gensim
+
+#statistik
+scrapy
+statsmodels
+
+
+#deeplearn
+tensorflow
+keras
+lasagne
+mxnet
+
+
+# other
+lxml
+pydot
+graphviz
+
+
+#tensorflow must be using ignore-install gpu
+
+
+# Lab & IDE
+jupyterlab
+notebook
+ipython
